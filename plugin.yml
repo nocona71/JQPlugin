@@ -1,0 +1,6 @@
+---
+name: JQPlugin
+version: 0.0.1
+main: IvaPro073\JQPlugin\Main
+api: 3.12.3
+...
